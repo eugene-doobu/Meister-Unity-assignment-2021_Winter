@@ -6,8 +6,8 @@
 
 ### Theme 01 - VR 시작 전 강의
 
-<b>210907 :</b> <a href="./lecture/1-1_211229.md">팀 프로젝트 회의</a><br>
-<b>210909 :</b> <a href="./lecture/1-2_210104.md">Photon Network</a>
+<b>211229 :</b> <a href="./lecture/1-1_211229.md">팀 프로젝트 회의</a><br>
+<b>220104 :</b> <a href="./lecture/1-2_220104.md">Photon Network</a>
 
 ### Theme 02 - VR Interaction Toolkit
 
